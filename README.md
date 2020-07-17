@@ -1,4 +1,4 @@
-# projects
+# TicTacToe
 
 This project is a part of CS50AI, My work was on tictactoe.py .
 I used minimax algorithm to help AI find its optimal solution.
