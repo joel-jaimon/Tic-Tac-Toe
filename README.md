@@ -12,4 +12,4 @@ I used minimax algorithm to help AI find its optimal solution.
     </ul>
 
 
-<img src="/demo.png">
+<img src="/img.png">
