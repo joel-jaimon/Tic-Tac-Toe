@@ -5,10 +5,10 @@ I used minimax algorithm to help AI find its optimal solution.
 
 <ul><h2>Instruction:-</h2>
     <li>Go to tictactoe folder.</li>
-    <li><h4>Set up virtual environment:</h4><br>
-        <p>For windows cmd:<br>Run: #.\venv\Scripts\activate<br>For bash:<br>Run: #source venv/Scripts/activate</p>
+    <li><h4>Set up virtual environment:</h4>
+        <p>For cmd run: <h5>.\venv\Scripts\activate</h5> For bash run:<h5> source venv/Scripts/activate</h5></p>
     </li>
-    <li>Now run runner.py or (Run: #python runner.py )</li>
+    <li>Run: <h5>python runner.py</h5></li>
     </ul>
 
 
